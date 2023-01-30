@@ -24,3 +24,6 @@ const styles = StyleSheet.create({
     color: colors.white,
   },
 });
+
+
+// ==== Folder : 4 || Video : 17 =================================
